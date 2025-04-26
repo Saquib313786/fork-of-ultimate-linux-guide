@@ -10,7 +10,7 @@
 +----------------------------------------------------+
 | System Utilities (ls, grep, systemctl, etc.)      |  <-- Part of the OS
 +----------------------------------------------------+
-| Linux Kernel (Process, Memory, FS, Network)       |  <-- Core of the OS
+| Linux Kernel (Process, Memory, File System, Network) |  <-- Core of the OS
 +----------------------------------------------------+
 | Hardware (CPU, RAM, Disk, Network, Peripherals)   |
 +----------------------------------------------------+
